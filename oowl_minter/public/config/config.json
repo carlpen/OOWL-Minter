@@ -1,0 +1,21 @@
+{
+  "CONTRACT_ADDRESS": "0xA8686980D6A938b113da84FD3e1750AF8f8E0247",
+  "SCAN_LINK": "https://polygonscan.com/address/0xa8686980d6a938b113da84fd3e1750af8f8e0247",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "ETH",
+    "ID": 137
+  },
+  "NFT_NAME": "Odd Old Owls NFT",
+  "SYMBOL": "OOWL",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 25000000000000000000,
+  "DISPLAY_COST": 25,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/odd-old-owls-nft",
+  "TWITTER_LINK": "https://twitter.com",
+  "DISCORD_LINK": "https://discord.gg/tN4EVpXVNT",
+  "EMAIL_LINK": "OWNERS@ODDOLDOWLS.COM",
+  "SHOW_BACKGROUND": true
+}
