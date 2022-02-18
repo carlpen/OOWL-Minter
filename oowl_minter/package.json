@@ -19,7 +19,6 @@
   "license": "MIT",
   "scripts": {
     "start": "PORT=80 react-scripts start",
-    "start-pc":"set PORT=80&& react-scripts start",
     "build": "react-scripts build"
   },
   "browserslist": {
