@@ -11,10 +11,10 @@
   "MAX_SUPPLY": 1000,
   "WEI_COST": 25000000000000000000,
   "DISPLAY_COST": 25,
-  "GAS_LIMIT": 285000,
+  "GAS_LIMIT": 290000,
   "MARKETPLACE": "Opensea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/odd-old-owls-nft",
-  "TWITTER_LINK": "https://twitter.com",
+  "TWITTER_LINK": "https://twitter.com/OddOldOwlNFT",
   "DISCORD_LINK": "https://discord.gg/tN4EVpXVNT",
   "EMAIL_LINK": "OWNERS@ODDOLDOWLS.COM",
   "SHOW_BACKGROUND": true
